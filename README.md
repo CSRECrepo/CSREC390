@@ -1,4 +1,4 @@
-# CSREC11941_Neurips_repo
+# CSREC390
 
 ## Overview
 This GitHub repo is for the review process only. The full dataset and data generation process will be released upon acceptance. 
